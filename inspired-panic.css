@@ -1,0 +1,57 @@
+/* Inspired Panic Theme */
+/* Code syntax highlighter theme for Squarespace */
+/* Original theme - https://github.com/benushersmith/inspired-panic-theme */
+/* http://benushersmith.com */
+
+/* Background - Black */
+/* Foreground - White (text color) */
+.source-code {
+	background: #112538;
+	color: #f8fff8;
+	white-space: pre;
+	overflow: auto;
+}
+
+/* Red */
+.cm-bracket,
+.cm-error,
+.cm-keyword,
+.cm-tag {
+	color: #ff052f;
+}
+
+/* Purple */
+.cm-atom,
+.cm-builtin,
+.cm-link,
+.cm-meta,
+.cm-number {
+	color: #8c59ca;
+}
+
+/* White */
+.cm-def,
+.cm-header,
+.cm-qualifier,
+.cm-variable-2,
+.cm-variable-3 {
+	color: #f8fff8;
+}
+
+/* Grey */
+.cm-comment,
+.cm-hr
+.cm-quote {
+	color: #969896;
+}
+
+/* Yellow */
+.cm-string,
+.cm-string-2 {
+	color: #ffcc4a;
+}
+
+/* Green */
+.cm-attribute {
+	color: #05f540;
+}
